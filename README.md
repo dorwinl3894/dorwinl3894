@@ -18,7 +18,7 @@ I am a senior majoring in Computer Information Systems with a concentration in D
 - Microsoft Office (Excel, PowerPoint, Access, ...)
 - Google Suite (Sheets, Slides, ...)
 - Google BigQuery
-- Tableau
+- [Tableau](https://public.tableau.com/app/profile/dorwin.liang/vizzes)
 - Git / GitHub
           
 <!--
