@@ -9,6 +9,10 @@ I am a senior majoring in Computer Information Systems with a concentration in D
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+          
+
           
 <!--
 **dorwinl3894/dorwinl3894** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
