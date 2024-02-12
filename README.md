@@ -6,7 +6,7 @@ I am a senior majoring in Computer Information Systems with a concentration in D
 
 ---
 
-## 🧰 Languages
+## 👨‍💻 Languages
 
 <img align="left" alt="Java" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="Java" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
