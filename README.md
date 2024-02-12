@@ -6,13 +6,18 @@ I am a senior majoring in Computer Information Systems with a concentration in D
 
 ---
 
-## 🧰 Languages and Tools
+## 🧰 Languages
 
 <img align="left" alt="Java" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="Java" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
 <img align="left" alt="Java" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-          
 
+## 🧰 Tools and Software
+- Microsoft Office (Excel, PowerPoint, Access, ...)
+- Google Suite (Sheets, Slides, ...)
+- Google BigQuery
+- Tableau
+- Git / GitHub
           
 <!--
 **dorwinl3894/dorwinl3894** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
