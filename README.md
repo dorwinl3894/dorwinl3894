@@ -1,4 +1,8 @@
-### Hi there 👋
+### 📊 Dorwin Liang 
+
+**`Data Analyst`**
+
+I am a senior majoring in Computer Information Systems with a concentration in Data Analytics (Graduating May 2024). I'm passionate about solving business problems with data and building visualizations to present them in a captivating way.
 
 <!--
 **dorwinl3894/dorwinl3894** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
