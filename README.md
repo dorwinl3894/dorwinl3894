@@ -19,9 +19,9 @@
 ## 🧰 Tools and Software
 - Microsoft Office (Excel, PowerPoint, Access, ...)
 - Google Suite (Sheets, Slides, ...)
-- Google BigQuery
 - [Tableau](https://public.tableau.com/app/profile/dorwin.liang/vizzes)
 - Git / GitHub
+- Google BigQuery
           
 <!--
 **dorwinl3894/dorwinl3894** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
