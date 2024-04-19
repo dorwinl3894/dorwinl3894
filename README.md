@@ -20,7 +20,6 @@
 - Microsoft Office (Excel, PowerPoint, Access, ...)
 - Google Suite (Sheets, Slides, ...)
 - [Tableau](https://public.tableau.com/app/profile/dorwin.liang/vizzes)
-- Microsoft Power BI
 - Git / GitHub
 - Google BigQuery
           
