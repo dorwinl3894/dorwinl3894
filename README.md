@@ -1,10 +1,9 @@
 # 📊 Dorwin Liang 
 
 **`Data Analyst`**
-
-- I am a senior majoring in Computer Information Systems with a concentration in Data Analytics (Graduating May 2024). 
-- I am passionate about solving business problems with data and building visualizations to present them in a captivating way. 
-- My professional experience includes internships in a variety of sectors including non profit, small businesses, government, and large multinational corporations, which all utilized my skillset in data analytics and business to contribute to the company’s success. 
+Hello! I am a senior majoring in Computer Information Systems with a concentration in Data Analytics (Graduating May 2024). 
+My passion involves solving business problems with data and building visualizations to present them in a captivating way. 
+My professional experience includes internships in a variety of sectors including non profit, small businesses, government, and large multinational corporations, which all utilized my skillset in data analytics and business to contribute to the company’s success. 
 
 ---
 
