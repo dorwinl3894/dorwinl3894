@@ -1,9 +1,11 @@
 # 📊 Dorwin Liang 
 
 **`Data Analyst`**
-Hello! I am a senior majoring in Computer Information Systems with a concentration in Data Analytics (Graduating May 2024). 
-My passion involves solving business problems with data and building visualizations to present them in a captivating way. 
-My professional experience includes internships in a variety of sectors including non profit, small businesses, government, and large multinational corporations, which all utilized my skillset in data analytics and business to contribute to the company’s success. 
+Hi! I have over 1+ years of analytics-related experience across many industries including advertising, government, and education. As an Investment Associate, I'm executing and optimizing a multi-million dollar media investment budget for one of the biggest CPG brands.
+
+Additionally, with a BBA in Computer Information Systems and Data Analytics, I have the perfect blend of technical skills, business acumen, and soft skills necessary to thrive in data analytics focused roles.
+
+I'm also actively brushing up my skills and learning every day and you can check out my collection of data analytics-related work below!
 
 ---
 
